@@ -1,10 +1,4 @@
-/*
-Project: Grove Light Sensor Lesson
-Programmer: Shahrulnizam Mat Rejab
-Board: Arduino Uno
-Last Modified: 9 November 2016
-Website: http://shahrulnizam.com
-*/
+
 
 int light;
 
